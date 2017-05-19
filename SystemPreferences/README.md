@@ -63,6 +63,8 @@ ntfs-3g is way too slow, I will use a commercial mount software if need to.
 
 Instead, format my all portable storage devices to ExFat.
 
+Actually, there are some mistakes below
+
 #### Install Homebrew and Homebrew Cask
 
 * Instructions [here](http://sourabhbajaj.com/mac-setup/Homebrew/README.html)!
