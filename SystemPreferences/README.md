@@ -59,6 +59,10 @@ Although Finder sucks, I have to use it since there are no total commander on ma
 
 ### Write to NTFS on OSX Yosemite and El Capitan
 
+ntfs-3g is way too slow, I will use a commercial mount software if need to.
+
+Instead, format my all portable storage devices to ExFat.
+
 #### Install Homebrew and Homebrew Cask
 
 * Instructions [here](http://sourabhbajaj.com/mac-setup/Homebrew/README.html)!
