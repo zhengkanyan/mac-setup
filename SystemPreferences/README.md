@@ -45,7 +45,7 @@ Although Finder sucks, I have to use it since there are no total commander on ma
 
 ### Menubar
 
-* Remove the display and Bluetooth icons
+* Remove the display and Bluetooth icons \(may need to show if use bluetooth devices\)
 * Change battery to show percentage symbols
 
 ### Spotlight
