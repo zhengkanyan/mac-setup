@@ -19,15 +19,17 @@ It is really simple to check if the app is supported by cask by going to the sea
 Some [plugins](https://github.com/sindresorhus/quick-look-plugins) to enable different files to work with Mac Quicklook. Includes features like syntax highlighting, markdown rendering, preview of jsons, patch files, csv, zip files etc.
 
 ```
-$ brew cask install qlcolorcode
-$ brew cask install qlstephen
+$ brew cask install qlcolorcode            # code highlighting
+$ brew cask install qlstephen              # view plain text file
 $ brew cask install qlmarkdown
 $ brew cask install quicklook-json
-$ brew cask install qlprettypatch
+$ brew cask install betterzipql            # list files in zip
+
+$ brew cask install suspicious-package     # view what a pkg file contains and what it does
+$ brew cask install qlprettypatch          # view patch file
 $ brew cask install quicklook-csv
-$ brew cask install betterzipql
-$ brew cask install webpquicklook
-$ brew cask install suspicious-package
+$ brew cask install webpquicklook          # generate thumbnails and previews for WebP images
+$ brew cask install qlimagesize            # generate image size but not work anymore
 ```
 
 ### App Installation
@@ -35,15 +37,17 @@ $ brew cask install suspicious-package
 I'll now cover installation of the apps that I have mentioned in the apps section using cask.
 
 ```
+$ brew cask install appcleaner
+$ brew cask install google-chrome
+$ brew cask install visual-studio-code
+
 $ brew cask install alfred
 $ brew cask install android-file-transfer
 $ brew cask install asepsis
-$ brew cask install appcleaner
 $ brew cask install caffeine
 $ brew cask install cheatsheet
 $ brew cask install doubletwist
 $ brew cask install dropbox
-$ brew cask install google-chrome
 $ brew cask install google-drive
 $ brew cask install google-hangouts
 $ brew cask install flux
