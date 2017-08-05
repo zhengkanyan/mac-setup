@@ -40,6 +40,7 @@ I'll now cover installation of the apps that I have mentioned in the apps sectio
 $ brew cask install appcleaner
 $ brew cask install google-chrome
 $ brew cask install visual-studio-code
+$ brew cask install typora
 
 $ brew cask install alfred
 $ brew cask install android-file-transfer
